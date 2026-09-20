@@ -1,6 +1,6 @@
-# CV Assignment — Day 1
+# CV Assignment
 
-Solutions to the 25 Python + OpenCV coding questions from `Computer_Vision_Day_1_25_Coding_Questions.pdf`, split across three sub-tasks.
+Solutions to the 25 questions, split across three sub-tasks.
 
 ## Structure
 
