@@ -1,6 +1,6 @@
-# CV Assignment — Day 1
+# CV Assignment
 
-Solutions to the 25 Python + OpenCV coding questions from `Computer_Vision_Day_1_25_Coding_Questions.pdf`, split across three sub-tasks.
+Solutions to the 25 questions, split across three sub-tasks.
 
 ## Structure
 
@@ -18,11 +18,10 @@ Each folder is self-contained:
 ## Running
 
 ```
+pip install -r requirements.txt
 python 1_Basic_Image_Handling/1_basic_image_handling.py
 python 2_Pixel_Image_Representation/2_pixel_image_representation.py
 python 3_Sampling_Quantization_Geometric/3_sampling_quantization_geometric.py
 ```
 
 Scripts run headlessly — no display windows, results (and relevant stats printed to console) go straight into each `output/` folder. Paths are resolved relative to the script itself, so they work from any working directory.
-
-Requires: `opencv-python`, `numpy`, `matplotlib`.
